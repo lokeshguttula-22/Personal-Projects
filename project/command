@@ -1,1 +1,1 @@
-python xmlfile.xml "c:/Inputfilepath" csvfilename.csv
+python pythonfile.py "c:/xmlfilepath/xmlfile.xml" csvfilename.csv
