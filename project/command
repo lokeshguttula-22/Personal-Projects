@@ -1,0 +1,1 @@
+python xmlfile.xml "c:/Inputfilepath" csvfilename.csv
